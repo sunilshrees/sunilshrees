@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @sunilshrees
-- 👀 I’m interested in Web Development ...
-- 🌱 I’m currently learning React.js ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Intro
 
-<!---
-sunilshrees/sunilshrees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Sunil Shrees, a software developer with experience in React.js and Next.js.
+
+## Get in Touch
+
+- Email: sunilshrees371@gmail.com
+- LinkedIn: linkedin.com/in/sunilshrees/
