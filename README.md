@@ -1,4 +1,3 @@
-# Intro
 
 Hello! I'm Sunil Shrees, a software developer with experience in React.js and Next.js.
 
